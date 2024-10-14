@@ -1,1 +1,1 @@
-# postgres_autoinstall_cluster
+# postgres_distrib
